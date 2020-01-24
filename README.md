@@ -13,7 +13,7 @@ $ docker run --name freeswitch -ti --rm -p 5060:5060 -p 5066:5066 lxuancheng/fre
 ## How to access the FreeSWITCH CLI (fs_cli)?
 
 ```
-$ docker exec -ti freeswith fs_cli
+$ docker exec -ti freeswitch fs_cli
 ```
 
 ## Default Values:
